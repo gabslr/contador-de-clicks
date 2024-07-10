@@ -39,16 +39,3 @@ html, body{
     justify-content: center;
 }
 
-@media (max-width: 1180px) {
-   .App{
-    position: relative;
-   }
-  }
-  
-  @media (max-width: 580px) {
-   .App{
-    position: relative;
-    align-content: center;
-    align-self: center;
-   }
-  }
